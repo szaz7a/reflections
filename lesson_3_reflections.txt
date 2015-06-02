@@ -21,7 +21,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    At least it makes comparing your recent changes easier to the last known
+	remote master with commands like diff and log.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
